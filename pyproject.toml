@@ -73,7 +73,7 @@ ext = ["funcs", "iters", "wraps"]
 optional = true
 
 [tool.poetry.group.format.dependencies]
-black = "23.11.0"
+black = "23.12.1"
 flake8-pyproject = "1.2.3"
 
 [tool.poetry.group.format.dependencies.flake8]
